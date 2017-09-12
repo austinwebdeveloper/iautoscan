@@ -1,0 +1,139 @@
+.autoscan_video
+{
+    width:350px;
+    height:190px;
+}
+
+#content-title:before
+{
+    height: 0px !important;
+    border-left: 0px !important;
+}
+
+#content-title
+{
+    padding-top: 0px !important;
+}
+
+#price_title
+{
+    color:#fff !important;
+    margin:20px 0px !important;
+}
+
+#price_section
+{
+    border:1px solid #fb606c;
+    background: #fb606c;
+    width: 40%;
+    margin: 0 30%;
+    padding:2px 2px !important;
+}
+
+#price_section1
+{
+    color:#fff !important;
+}
+
+#price_section1_head1
+{
+    margin:10px 0px !important;
+    color:#fff !important;
+}
+
+
+#price_section1_head2
+{
+    font-style:italic !important;
+    font-size:14px !important;
+    margin:0px 0px 10px !important;
+    color:#fff !important;
+}
+
+
+#price_section2 {
+    background: #fff;
+    font-weight: 500;
+}
+
+#price_section2_head1
+{
+    margin: 10px 0px 0px !important;
+    padding: 10px 0px 0px;
+    font-size: 35px !important;
+    color: #363c3f !important;
+}
+
+
+#price_section2_head1 i
+{
+    top: -8px;
+    font-size: 19px;
+    font-style: normal;
+    position: relative;
+}
+
+#price_section2_head2
+{
+    font-size: 14px !important;
+    margin: 0px !important;
+    padding: 10px !important;
+    color: #363c3f !important;
+}
+
+.price_labels
+{
+    background: #818587 !important;
+    color: #fff !important;
+    border-bottom: 1px solid #fff !important;
+    padding: 10px 0px !important;
+    font-size: 15px !important;
+    margin: 0px !important;
+}
+
+#price_footer
+{
+    background: #818587 !important;
+    padding-bottom: 20px !important;
+}
+
+#price_footer_label
+{
+    color: #fff !important;
+    font-size: 12px !important;
+    margin: 0% 15%;
+    line-height: 20px;
+    padding: 10px 15px!important;
+}
+
+#signup_link
+{
+    color: #fff;
+    background: #fb606c;
+    font-size: 18px !important;
+    padding: 6px 12px 10px !important;
+    border-radius: 5px !important;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.register_labels
+{
+    color: #fff !important;
+    padding: 10px 0px !important;
+    font-weight: 500 !important;
+}
+
+#zip_div
+{
+    margin-left:25%;
+}
+
+#success_msg
+{
+    width: 80%;
+    margin: 4% 10%;
+    color: #fff;
+    font-size: 25px;
+    line-height: 35px;
+}
